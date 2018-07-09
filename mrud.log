@@ -1,0 +1,883 @@
+17:26:23.736 DEBUG [main] App                  - RTP Transfer Start !!!
+17:26:23.805 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:23.805 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:23.808 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.809 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:23.809 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:23.813 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 00 00 00 00 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.819 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:23.819 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:23.822 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.822 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:23.822 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:23.824 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 01 00 00 01 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.838 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:23.839 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:23.841 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.841 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:23.841 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:23.843 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 02 00 00 02 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.857 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:23.858 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:23.859 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.859 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:23.859 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:23.861 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 03 00 00 03 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.879 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:23.879 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:23.881 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.881 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:23.881 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:23.883 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 04 00 00 05 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.898 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:23.899 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:23.901 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.901 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:23.902 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:23.903 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 05 00 00 06 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.916 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:23.917 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:23.918 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.919 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:23.920 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:23.922 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 06 00 00 07 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.935 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:23.935 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:23.936 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.936 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:23.936 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:23.937 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 07 00 00 08 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.953 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:23.953 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:23.954 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.954 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:23.954 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:23.955 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 08 00 00 0a 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.974 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:23.975 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:23.977 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.978 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:23.979 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:23.981 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 09 00 00 0b 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.991 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:23.991 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:23.992 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:23.992 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:23.992 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:23.993 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 0a 00 00 0c 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.009 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.009 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.010 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.011 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.012 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.013 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 0b 00 00 0d c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.030 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.031 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.032 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.033 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.033 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.035 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 0c 00 00 0f 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.050 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.051 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.052 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.052 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.053 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.055 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 0d 00 00 10 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.067 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.068 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.069 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.071 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.071 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.072 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 0e 00 00 11 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.087 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.087 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.087 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.088 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.088 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.088 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 0f 00 00 12 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.106 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.107 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.108 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.109 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.109 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.109 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 10 00 00 14 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.124 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.125 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.126 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.128 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.128 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.128 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 11 00 00 15 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.145 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.145 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.146 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.146 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.146 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.146 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 12 00 00 16 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.163 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.163 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.163 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.163 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.164 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.164 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 13 00 00 17 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.183 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.184 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.185 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.185 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.187 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.189 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 14 00 00 19 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.199 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.200 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.202 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.203 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.204 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.204 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 15 00 00 1a 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.219 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.220 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.221 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.222 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.222 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.223 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 16 00 00 1b 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.238 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.239 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.240 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.240 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.240 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.241 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 17 00 00 1c c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.260 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.260 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.262 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.262 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.263 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.265 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 18 00 00 1e 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.277 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.277 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.277 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.277 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.278 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.278 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 19 00 00 1f 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.294 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.294 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.295 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.295 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.295 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.295 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 1a 00 00 20 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.317 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.317 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.317 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.317 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.317 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.318 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 1b 00 00 21 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.333 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.333 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.333 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.333 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.333 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.334 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 1c 00 00 23 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.353 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.353 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.354 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.354 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.354 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.354 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 1d 00 00 24 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.372 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.372 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.373 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.373 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.373 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.373 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 1e 00 00 25 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.392 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.392 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.392 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.392 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.392 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.393 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 1f 00 00 26 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.409 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.410 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.410 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.410 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.410 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.410 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 20 00 00 28 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.430 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.431 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.432 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.433 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.433 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.434 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 21 00 00 29 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.448 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.449 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.450 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.450 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.451 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.451 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 22 00 00 2a 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.468 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.468 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.468 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.469 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.469 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.471 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 23 00 00 2b c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.491 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.491 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.491 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.491 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.491 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.492 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 24 00 00 2d 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.504 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.504 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.505 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.506 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.506 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.508 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 25 00 00 2e 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.522 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.523 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.523 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.523 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.523 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.523 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 26 00 00 2f 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.544 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.544 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.544 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.544 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.544 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.545 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 27 00 00 30 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.563 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.563 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.563 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.563 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.563 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.564 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 28 00 00 32 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.579 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.580 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.581 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.582 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.582 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.583 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 29 00 00 33 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.600 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.600 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.601 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.601 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.601 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.602 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 2a 00 00 34 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.619 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.619 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.619 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.619 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.619 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.620 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 2b 00 00 35 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.637 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.637 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.637 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.637 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.637 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.637 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 2c 00 00 37 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.658 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.659 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.659 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.659 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.659 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.660 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 2d 00 00 38 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.675 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.676 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.676 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.677 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.677 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.679 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 2e 00 00 39 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.696 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.696 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.696 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.696 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.696 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.696 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 2f 00 00 3a c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.713 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.713 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.714 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.714 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.714 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.714 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 30 00 00 3c 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.734 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.734 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.734 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.734 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.734 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.735 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 31 00 00 3d 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.753 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.753 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.754 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.754 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.754 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.754 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 32 00 00 3e 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.770 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.770 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.770 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.770 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.771 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.771 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 33 00 00 3f c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.791 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.792 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.792 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.792 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.792 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.793 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 34 00 00 41 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.814 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.815 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.818 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.818 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.818 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.819 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 35 00 00 42 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.828 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.828 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.829 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.829 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.829 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.829 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 36 00 00 43 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.845 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.846 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.848 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.849 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.849 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.851 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 37 00 00 44 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.866 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.867 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.867 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.867 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.867 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.868 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 38 00 00 46 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.884 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.884 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.885 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.885 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.885 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.885 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 39 00 00 47 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.904 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.906 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.907 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.907 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.908 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.908 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 3a 00 00 48 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.922 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.923 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.924 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.924 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.925 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.925 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 3b 00 00 49 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.940 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.941 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.944 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.944 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.945 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.946 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 3c 00 00 4b 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.960 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.960 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.961 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.961 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.961 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.961 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 3d 00 00 4c 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.978 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.978 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.981 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.982 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:24.982 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:24.984 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 3e 00 00 4d 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.998 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:24.998 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:24.999 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:24.999 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.000 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.001 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 3f 00 00 4e c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.018 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.018 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.018 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.018 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.019 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.023 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 40 00 00 50 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.036 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.037 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.038 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.039 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.039 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.040 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 41 00 00 51 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.056 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.057 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.059 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.059 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.059 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.059 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 42 00 00 52 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.073 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.073 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.074 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.074 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.074 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.074 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 43 00 00 53 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.093 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.094 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.094 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.094 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.094 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.095 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 44 00 00 55 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.111 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.111 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.112 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.112 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.112 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.112 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 45 00 00 56 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.132 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.132 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.133 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.133 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.134 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.134 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 46 00 00 57 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.149 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.149 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.150 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.150 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.150 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.150 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 47 00 00 58 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.169 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.169 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.170 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.170 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.170 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.170 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 48 00 00 5a 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.190 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.190 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.190 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.190 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.190 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.190 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 49 00 00 5b 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.207 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.207 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.207 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.207 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.208 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.208 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 4a 00 00 5c 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.228 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.229 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.230 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.230 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.230 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.230 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 4b 00 00 5d c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.246 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.246 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.247 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.247 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.247 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.248 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 4c 00 00 5f 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.265 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.266 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.266 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.266 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.266 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.266 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 4d 00 00 60 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.283 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.283 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.284 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.284 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.285 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.286 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 4e 00 00 61 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.301 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.302 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.303 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.303 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.303 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.303 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 4f 00 00 62 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.322 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.322 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.323 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.323 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.323 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.323 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 50 00 00 64 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.341 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.341 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.341 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.341 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.341 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.341 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 51 00 00 65 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.358 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.358 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.358 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.358 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.358 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.359 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 52 00 00 66 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.380 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.380 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.381 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.381 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.381 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.381 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 53 00 00 67 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.398 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.398 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.398 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.398 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.399 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.399 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 54 00 00 69 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.419 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.420 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.420 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.420 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.420 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.421 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 55 00 00 6a 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.436 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.436 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.436 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.437 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.437 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.437 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 56 00 00 6b 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.455 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.455 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.456 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.456 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.456 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.456 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 57 00 00 6c c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.475 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.475 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.475 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.475 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.475 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.475 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 58 00 00 6e 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.492 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.492 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.492 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.492 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.492 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.493 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 59 00 00 6f 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.512 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.513 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.513 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.513 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.513 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.513 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 5a 00 00 70 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.533 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.533 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.533 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.534 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.534 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.534 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 5b 00 00 71 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.548 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.548 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.549 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.549 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.549 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.550 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 5c 00 00 73 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.570 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.570 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.570 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.570 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.570 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.571 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 5d 00 00 74 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.586 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.586 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.586 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.586 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.586 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.587 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 5e 00 00 75 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.607 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.607 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.607 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.607 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.607 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.608 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 5f 00 00 76 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.628 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.628 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.628 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.628 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.628 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.628 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 60 00 00 78 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.646 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.646 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.646 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.646 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.646 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.646 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 61 00 00 79 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.666 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.666 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.666 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.666 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.666 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.666 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 62 00 00 7a 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.683 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.683 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.683 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.683 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.683 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.683 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 63 00 00 7b c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.704 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.704 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.704 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.704 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.704 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.704 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 64 00 00 7d 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.721 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.721 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.722 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.722 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.722 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.722 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 65 00 00 7e 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.741 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.741 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.741 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.741 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.741 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.741 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 66 00 00 7f 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.758 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.758 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.759 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.759 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.759 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.759 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 67 00 00 80 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.780 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.780 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.780 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.780 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.780 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.780 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 68 00 00 82 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.796 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.796 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.797 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.797 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.797 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.797 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 69 00 00 83 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.815 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.815 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.816 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.816 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.816 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.816 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 6a 00 00 84 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.837 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.837 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.837 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.837 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.837 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.837 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 6b 00 00 85 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.853 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.853 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.853 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.854 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.854 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.854 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 6c 00 00 87 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.874 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.874 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.875 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.875 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.875 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.875 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 6d 00 00 88 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.892 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.892 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.892 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.892 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.892 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.893 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 6e 00 00 89 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.909 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.910 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.910 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.910 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.910 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.911 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 6f 00 00 8a c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.931 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.931 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.932 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.932 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.932 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.932 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 70 00 00 8c 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.949 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.949 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.949 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.949 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.949 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.950 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 71 00 00 8d 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.968 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.968 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.968 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.968 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.968 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.968 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 72 00 00 8e 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.986 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:25.986 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:25.987 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:25.987 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:25.987 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:25.988 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 73 00 00 8f c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.005 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.005 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.005 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.005 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.005 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.006 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 74 00 00 91 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.026 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.026 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.026 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.026 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.027 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.027 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 75 00 00 92 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.045 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.045 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.045 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.045 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.045 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.046 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 76 00 00 93 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.063 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.063 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.063 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.063 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.064 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.064 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 77 00 00 94 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.083 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.083 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.083 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.083 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.083 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.083 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 78 00 00 96 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.100 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.101 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.101 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.101 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.101 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.102 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 79 00 00 97 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.119 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.119 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.119 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.119 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.119 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.119 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 7a 00 00 98 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.141 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.141 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.142 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.142 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.143 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.143 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 7b 00 00 99 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.157 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.157 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.157 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.157 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.157 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.157 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 7c 00 00 9b 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.176 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.177 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.177 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.177 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.177 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.177 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 7d 00 00 9c 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.197 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.197 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.197 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.197 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.197 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.197 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 7e 00 00 9d 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.215 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.215 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.215 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.215 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.215 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.215 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 7f 00 00 9e c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.233 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.234 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.234 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.234 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.234 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.234 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 80 00 00 a0 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.253 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.254 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.254 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.254 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.254 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.254 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 81 00 00 a1 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.271 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.272 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.272 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.272 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.272 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.272 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 82 00 00 a2 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.292 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.292 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.292 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.292 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.292 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.292 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 83 00 00 a3 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.308 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.309 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.309 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.309 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.309 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.309 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 84 00 00 a5 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.331 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.331 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.331 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.331 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.331 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.331 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 85 00 00 a6 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.349 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.349 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.349 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.349 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.349 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.349 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 86 00 00 a7 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.368 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.369 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.369 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.369 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.369 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.369 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 87 00 00 a8 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.386 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.386 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.386 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.387 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.387 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.387 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 88 00 00 aa 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.405 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.405 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.405 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.405 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.405 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.406 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 89 00 00 ab 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.423 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.423 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.423 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.423 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.423 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.424 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 8a 00 00 ac 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.442 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.442 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.442 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.442 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.442 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.443 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 8b 00 00 ad c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.463 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.463 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.463 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.463 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.463 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.464 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 8c 00 00 af 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.481 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.481 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.481 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.482 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.482 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.482 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 8d 00 00 b0 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.500 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.500 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.501 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.501 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.501 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.501 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 8e 00 00 b1 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.520 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.520 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.520 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.520 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.520 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.520 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 8f 00 00 b2 c0 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.536 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.537 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.537 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.537 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.537 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.537 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 90 00 00 b4 00 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.556 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.556 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.556 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.556 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.556 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.556 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 91 00 00 b5 40 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.574 DEBUG [pool-2-thread-1] RtpTransfer          - Time Stamp : 320
+17:26:26.574 DEBUG [pool-2-thread-1] RtpTransfer          - ssrc : 1650338627
+17:26:26.575 DEBUG [pool-2-thread-1] RtpTransfer          - AMR Data : 62 [f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
+17:26:26.575 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 512
+17:26:26.575 DEBUG [pool-2-thread-1] RtpTransfer          - wrap length : 74
+17:26:26.576 DEBUG [pool-2-thread-1] RtpTransfer          - data : length 74 [80 e4 00 92 00 00 b6 80 62 5e 2b 43 f0 44 11 06 30 33 be ce b3 a0 d3 00 00 eb 50 87 b4 ff d6 42 40 18 08 1a e5 02 2a 96 91 29 48 49 cb 52 22 89 06 78 c0 28 00 b1 18 8b 93 24 c6 58 74 ac 19 0d d7 b0 5b 08 88 cb ba af f2 58 ]
